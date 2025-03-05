@@ -1,0 +1,28 @@
+h1 {
+  color: rgb(5, 107, 209);
+  text-shadow: 1px 1px 2px rgb(6, 79, 161);
+  font-family: "Times New Roman", Times, serif;
+  font-size: 40px;
+}
+h4 {
+  color: rgb(0, 187, 255);
+  text-transform: uppercase;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h3 {
+  color: rgb(0, 187, 255);
+  text-transform: capitalize;
+  font-family: "Times New Roman", Times, serif;
+}
+.sau {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.by {
+  font-style: italic;
+  direction: rtl;
+}
+.the {
+  font-family: Arial, Helvetica, sans-serif;
+  white-space: nowrap;
+  font-weight: 700;
+}

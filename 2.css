@@ -1,0 +1,12 @@
+h1 {
+  color: red;
+  text-align: center;
+}
+#w {
+  color: green;
+  direction: rtl;
+  font-style: italic;
+}
+p {
+  word-spacing: 5px;
+}

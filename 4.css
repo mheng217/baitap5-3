@@ -1,0 +1,29 @@
+.img {
+  width: 400px;
+  display: block;
+  height: 150px;
+  margin: auto;
+}
+h1 {
+  position: absolute;
+  top: 50px;
+  left: 50%;
+  transform: translateX(-50%);
+  color: red;
+  font-size: 24px;
+  font-weight: bold;
+}
+.w {
+  color: green;
+  font-style: italic;
+  direction: rtl;
+  margin: 5px 10px;
+}
+.highlight {
+  background-color: orange;
+  word-spacing: 5px;
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 5px;
+  font-size: 14px;
+}

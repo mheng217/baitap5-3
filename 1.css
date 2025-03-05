@@ -1,0 +1,18 @@
+.mon {
+  color: red;
+  font-style: italic;
+  font-weight: 700;
+}
+#tud {
+  color: green;
+}
+#cntt {
+  color: blue;
+}
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+a {
+  direction: rtl;
+  font-size: 30px;
+}
